@@ -1,2 +1,1 @@
-# my-first-repository
-INDUS EXPLORE
+INDUS EXPLORE Mini Project
